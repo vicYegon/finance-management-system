@@ -1,0 +1,3 @@
+# Django Finance Management System
+
+## 
